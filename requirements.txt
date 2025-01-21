@@ -5,4 +5,4 @@ itsdangerous==2.1.2
 Jinja2==3.1.3
 MarkupSafe==2.1.5
 Werkzeug==3.0.1
-yt-dlp==2023.01.18  # Add yt-dlp for video/audio downloading
+yt-dlp==2023.01.18  
